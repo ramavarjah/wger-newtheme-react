@@ -1,0 +1,38 @@
+.avatar-img{
+    border-radius: 84px;
+    }
+    
+    .profile-cover-img{
+        width: 1137px;
+        height: 145px;
+
+    }
+    
+    .Avatar_test{ 
+        
+            position: relative;
+            bottom: 115px;
+            right: -5px;
+    
+        
+    }
+    
+    .User_menu{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+       
+    
+    }
+    
+    .ant-menu-horizontal {
+    border: none;
+    position: relative;
+    left: 281px;
+    }
+    
+    /* // .ant-menu-horizontal {
+    //     border: none;
+    //     position: relative;
+    //     left: 139px;
+    // } */

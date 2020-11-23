@@ -1,0 +1,36 @@
+.editable-row-operations a {
+    margin-right: 8px;
+  }
+
+  .ant-table-content {
+    width: 601px;
+    float: left;
+    position: relative;
+    left:167px;
+    top: 43px;
+    border: 1px solid black;
+}
+
+.Save_cancel{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  left: -12px;
+}
+
+.ant-table-cell{
+  width: 144px;
+}
+
+/* .ant-card-bordered {
+  border: 1px solid #f0f0f0;
+  display: flex;
+  flex-direction: row;
+  vertical-align: bottom;
+  height: 55px;
+  width: 324px;
+  position: relative;
+  top: 386px;
+  left: -393px;
+} */

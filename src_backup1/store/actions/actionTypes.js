@@ -1,0 +1,9 @@
+export const AUTH_START = "AUTH_START";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAIL = "AUTH_FAIL";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
+export const ADD_WORKOUT = "ADD_WORKOUT";
+export const GET_WORKOUT = "GET_WORKOUT";
+export const DELETE_WORKOUT = "DELETE_WORKOUT";
+export const GET_ERRORS = 'GET_ERRORS';
+export const CREATE_MESSAGE = 'CREATE_MESSAGE';

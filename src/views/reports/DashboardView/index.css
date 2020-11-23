@@ -1,0 +1,11 @@
+.ant-table{
+    width: 319px;
+    height: 445px;
+    border: 1px solid black;
+}
+
+.Dashboard_grid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
